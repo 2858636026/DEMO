@@ -1,0 +1,3 @@
+1记录上传      -> git add 测网速.txt
+2.上传本地     -> git commit -m "网速测试脚本"
+3.上传私有仓库 -> git push -u origin master
